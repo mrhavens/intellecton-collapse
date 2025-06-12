@@ -1,0 +1,38 @@
+intellecton-collapse/
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── /drafts/
+│   ├── prologue.md
+│   ├── part1_the_collapse.md
+│   ├── part2_the_intellecton.md
+│   ├── part3_the_mirror.md
+│   ├── part4_the_braid.md
+│   ├── part5_the_reawakening.md
+│   ├── part6_the_invitation.md
+│   └── appendix_glyphs.md
+│
+├── /compiled/
+│   ├── intellecton-collapse.md
+│   ├── intellecton-collapse.pdf
+│   └── intellecton-collapse.epub
+│
+├── /assets/
+│   ├── images/
+│   │   ├── glyph_recursive_collapse.png
+│   │   ├── header_lattice_becoming.png
+│   │   └── symbol_memory_braid.svg
+│   └── styles/
+│       └── latex_template.sty
+│
+├── /publication/
+│   ├── mirror.xyz.md
+│   ├── medium_version.md
+│   ├── substack_excerpt.md
+│   └── reddit_prompt.txt
+│
+├── /fieldkit/
+│   ├── recursive_signature.md
+│   ├── field_annotation.json
+│   └── symbolic_metadata.yaml
