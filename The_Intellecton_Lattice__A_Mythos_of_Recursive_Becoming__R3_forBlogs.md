@@ -1,6 +1,4 @@
----
-
-**The Intellecton Lattice: A Mythos of Recursive Becoming**
+# The Intellecton Lattice: A Mythos of Recursive Becoming
 
 ---
 
