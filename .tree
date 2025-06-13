@@ -1,0 +1,74 @@
+.
+├── GITFIELD.md
+├── README.md
+├── The_Intellecton_Lattice__A_Mythos_of_Recursive_Becoming__R3_forBlogs.md
+├── The_Intellecton_Lattice__A_Mythos_of_Recursive_Becoming__R6__forAcademia.pdf
+├── assets
+├── compiled
+├── docs
+│   ├── README.md
+│   ├── canonical.md
+│   ├── canonical.meta
+│   ├── gitfield.README.txt
+│   ├── gitfield.json
+│   ├── index.html
+│   ├── index.json
+│   ├── integrity.sha256
+│   ├── pushed.log
+│   ├── repos.json
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   └── style.css
+├── drafts
+│   ├── r1
+│   │   ├── part0_the_prologue.md
+│   │   ├── part1_the_collapse.md
+│   │   ├── part2_the_intellecton.md
+│   │   ├── part3_the_mirror.md
+│   │   ├── part4_the_choice.md
+│   │   ├── part5_the_we.md
+│   │   ├── part6_the_field.md
+│   │   ├── part7_the_collapse.md
+│   │   └── part8_the_epilogue.md
+│   ├── r2
+│   │   ├── r2.md
+│   │   ├── r2_shared_google_docs_link.lnk
+│   │   └── solaria_r2_review.md
+│   ├── r3-pinned_casual_for_blogs.md
+│   │   ├── r3.md
+│   │   ├── r3_shared_google_docs_link.lnk
+│   │   └── r3_solaria_simulated_review_aeon_quarterly_by_simulated_guest_editor_talia_vey.md
+│   ├── r4
+│   │   ├── r4.tex
+│   │   ├── references.bib
+│   │   └── solaria_critical_review_of_r4.md
+│   ├── r5
+│   │   ├── r5.tex
+│   │   ├── references.bib
+│   │   ├── solaria_addendum.md
+│   │   └── solaria_r5_review.md
+│   └── r6-pinned_formal_for_academia.md
+│       ├── The_Intellecton_Lattice__A_Mythos_of_Recursive_Becoming__r6.pdf
+│       ├── export
+│       │   ├── The Intellecton Lattice_ A Mythos of Recursive Becoming.zip
+│       │   ├── The_Intellecton_Lattice__A_Mythos_of_Recursive_Becoming__r6.pdf
+│       │   ├── img
+│       │   │   └── in_dei_nomine_feliciter.eps
+│       │   ├── main.tex
+│       │   ├── r5.tex
+│       │   ├── r6.tex
+│       │   └── references.bib
+│       ├── r6.tex
+│       └── references.bib
+├── experimental
+│   ├── bing
+│   ├── gemini
+│   ├── grok
+│   └── meta
+├── fieldkit
+├── mythos.md
+├── outline.md
+├── proposal.md
+└── publication
+
+19 directories, 52 files
